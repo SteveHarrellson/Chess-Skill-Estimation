@@ -4,8 +4,6 @@ I'm an amateur chess player, and I have always been fascinated by the way people
 
 This realization inspired me to build a neural net to guess a player's skill.  Here, using a neural net, we estimate the skill rating (ELO score) of two players by examining an isolated board position, plucked without context from the middle of their game.  With a single board position, we can get surprisingly close to estimating the skill rating of two players, with 50% of our guesses being within 200 ELO points of the true value.  The classifeier performs best on lower skill rated players games, with 50% of ELO predictions for this group landing within 50-150 ELO points.
 
-
-
-This repo contains everything you need to classify chess games based off player skill.  Everything from acquiring your own dataset to training your own network is included.  However, if you're only interested in examining the results of my own analysis, codes for this step alone are included as well.
+This repo contains what you need to classify chess games based off player skill.  Everything from acquiring your own dataset to training your own network is included.  However, if you're only interested in examining the results of my own analysis, codes for this step alone are included as well.
 
 Using a neural network, we are able to establish the approximate skill level of players based off a single board position.
