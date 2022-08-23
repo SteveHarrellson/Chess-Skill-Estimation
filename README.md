@@ -28,4 +28,4 @@ The data I used to build this model is contained within the Data folder, while t
 
 ### Acknowledgements 
 
-Huge thanks goes to [Alan Kahn](https://www.linkedin.com/in/alan-kahn-08172322a/) for his insight in designing neural networks and using machine learning generally.  Many pitfalls were avoided with his sage advice.  Thanks also to Rees McNally and Konrad Wenz for their input on how to process and interpret data, and many useful discussions about the direction of the project.
+Huge thanks goes to [Alan Kahn](https://www.linkedin.com/in/alan-kahn-08172322a/) for his insight in designing neural networks and using machine learning generally.  Many pitfalls were avoided with his sage advice.  Thanks also to [Rees McNally](https://www.linkedin.com/in/rees-mcnally-97a72361/) and [Konrad Wenz](https://www.linkedin.com/in/kwenz/) for their input on how to process and interpret data, and many useful discussions about the direction of the project.
