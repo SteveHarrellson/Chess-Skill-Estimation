@@ -16,7 +16,10 @@ Using a neural network, we are able to establish the approximate skill level of 
 
 If you only want to explore the construction of the neural net and the results of the model, check out "Neural Net Classifier" and "Test Model on Data."  These contain everything you need to train your own model on the data I've collected, and explore the results.
 <br />
+<br />
 If you want to acquire your own dataset, head to the [Free Internet Chess Server](https://www.ficsgames.org/) and download games using their search tool.  For this project, I only used games in which both players were within 200 ELO of one another.  I also took care to ensure that an equal number of games were drawn from all ELO brackets.  Once you've downloaded your dataset, you can use "Extract PGN Data to CSV" and "Format CSV data for Neural Net" respectively to construct data ready to be used by the included neural net.
-<br \>
+<br />
+<br />
 The data I used to build this model is contained within the Data folder, while the test data is in the "Test Data" folder.  A curated set of test data (one which draws from high and low ELO games equally) is found in the "Test Data" folder as well.  Though you can download any given group of games from this site, in order to accurately gauge the quality of the classifier you should attempt to gather an equal number of games from each ELO bracket.
-<br \>
+<br />
+<br />
