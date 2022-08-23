@@ -25,3 +25,7 @@ If you want to acquire your own dataset, head to the [Free Internet Chess Server
 The data I used to build this model is contained within the Data folder, while the test data is in the "Test Data" folder.  A curated set of test data (one which draws from high and low ELO games equally) is found in the "Test Data" folder as well.  Though you can download any given group of games from this site, in order to accurately gauge the quality of the classifier you should attempt to gather an equal number of games from each ELO bracket.
 <br />
 <br />
+
+### Acknowledgements 
+
+Huge thanks goes to [Alan Kahn](https://www.linkedin.com/in/alan-kahn-08172322a/) for his insight in designing neural networks and using machine learning generally.  Many pitfalls were avoided with his sage advice.  Thanks also to Rees McNally and Konrad Wenz for their input on how to process and interpret data, and many useful discussions about the direction of the project.
