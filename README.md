@@ -17,5 +17,6 @@ Using a neural network, we are able to establish the approximate skill level of 
 
 
 
-<br>
-[ELO score] : https://en.wikipedia.org/wiki/Elo_rating_system
+<br />
+<br />
+[ELO score]: https://en.wikipedia.org/wiki/Elo_rating_system
