@@ -14,6 +14,8 @@ Using a neural network, we are able to establish the approximate skill level of 
 
 ### How to use the code in this repo
 
+To run the neural net and to examine the results, you just need some standard python packages for ML and data visualization, pandas, tensorflow, seaborn, etc.  If you want to create your own chess dataset, you will need to install the [python chess library](https://python-chess.readthedocs.io/en/latest/).  I use this to parse game files, as well as output positions encoded in FEN strings.
+
 If you only want to explore the construction of the neural net and the results of the model, check out "Neural Net Classifier" and "Test Model on Data."  These contain everything you need to train your own model on the data I've collected, and explore the results.
 <br />
 <br />
